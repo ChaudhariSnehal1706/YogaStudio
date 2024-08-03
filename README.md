@@ -1,2 +1,2 @@
 # YogaStudio
-YogaStudio Repo
+Create YogaStudio Web Using React with Tailwind CSS
